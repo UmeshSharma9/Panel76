@@ -2,7 +2,7 @@
 
 Run As Root=Sudo Su
 
-Install The Panel=  bash <(curl -s https://raw.githubusercontent.com/UmeshSharma9/Panel76/refs/heads/main/skyport)
+Install The Panel=bash <(curl -s https://raw.githubusercontent.com/UmeshSharma9/Panel76/refs/heads/main/skyport
 
 Forward A Port=3001 And Port Visibility Set Public And Sign In And Create Node And Daemon Port Is Default
 
@@ -10,7 +10,7 @@ Forward A Port=3001 And Port Visibility Set Public And Sign In And Create Node A
 Create New Terminal
 
 Run As Root=Sudo Su
-Install The Node=  bash <(curl -s https://raw.githubusercontent.com/UmeshSharma9/Panel76/refs/heads/main/Wings)
+Install The Node=bash <(curl -s https://raw.githubusercontent.com/UmeshSharma9/Panel76/refs/heads/main/Wings
 
 Go To Node Directory= cd skyportd
 
