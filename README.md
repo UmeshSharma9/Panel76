@@ -24,5 +24,5 @@ pm2 start index
 pm2 start skyportd
 
 #                                      SkyPort Panel        
-                                     © Copyright By Umesh 
-                                     © Credit Goes To Umesh  
+© Copyright By Umesh 
+© Credit Goes To Umesh  
